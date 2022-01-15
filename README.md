@@ -1,2 +1,3 @@
-# Javascript-Fundamentals
-Fundamentals of Javascript.
+# Javascript-Fundamentals.
+
+A playground for javascript fundamentals
